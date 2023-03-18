@@ -1,0 +1,202 @@
+/* body{
+    background-color: cornflowerblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+
+.nav{
+    background-color: MediumAquaMarine;
+    height: 65px;
+    border-bottom: 10px solid yellow;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+a{
+    background-color: lightseagreen;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 3px 3px 5px black;
+}
+
+.form-control{
+    border: 1px solid black;
+    box-shadow: 3px 3px 5px black;
+    margin-bottom: 6px;
+}
+
+.form-info{
+    background-color: lightseagreen;
+    color: black;
+    border: 2px solid black;
+    box-shadow: 0px 10px 20px black;
+}
+
+.form-header{
+    border-bottom: 2px solid black;
+}
+
+.btn{
+    background-color: cornflowerblue;
+    font-size: medium;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 4px;
+    height: 35px;
+}
+
+
+
+
+
+.flex-container{
+    margin: auto;
+}
+.container1 .header{
+    display: flex;
+    justify-content: space-between;
+}
+.container1 .header h1{
+    margin-left: 25px;
+}
+.container1 .header .sub-header{
+    font-size: 24px;
+    margin: 25px;
+}
+.container1 .header .sub-header a{
+    text-decoration: none;
+}
+.large-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.large-container .container2{
+    margin: 20px auto;
+    width: 500px;
+    height: 550px;
+    border: 2px solid blue;
+}
+.large-container .container2 form {
+    margin: 25px auto;
+    width: 400px;
+}
+.large-container .container2 form label{
+    margin: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+.large-container .container2 form input{
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.large-container .container2 form textarea{
+    width: 400px;
+    height: 200px;
+}
+.large-container .container2 form button{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    padding: 8px 14px;
+}
+.large-container .container2 .body .small-container1{
+    margin: 50px auto;
+    width: 400px;
+}
+.large-container .container2 .body .small-container1 label{
+    margin: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+.large-container .container2 .body .small-container1 input{
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.large-container .container2 .body .small-container1 textarea{
+    width: 400px;
+    height: 200px;
+}
+.large-container .container2 .body .small-container2{
+    display: block;
+}
+.container1 .header{
+    border: 2px solid red;
+    text-align: center;
+}
+.large-container .container2 .body{
+    margin: 15px auto;
+    width: 500px;
+    height: 500px;
+}
+.large-container .small-container2 .container3 .address{
+    margin: 20px auto;
+    width: 500px;
+}
+.large-container .small-container2 .container3 .address label{
+    margin: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+.large-container .small-container2 .container3 .address input{
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.large-container .small-container2 .container4 .message{
+    width: 500px;
+}
+.large-container .small-container2 .container4 .message label{
+    margin: auto;
+    font-size: 24px;
+    font-weight: 900;
+}
+.large-container .small-container2 .container4 .message textarea{
+    width: 400px;
+    height: 200px;
+}
+.flex-container .sb-header{
+    border: 2px solid brown;
+}
+.flex-container .tbl{
+    margin: auto;
+    height: auto;
+    border: 2px solid pink;
+}
+.flex-container .tbl table{
+    margin: auto;
+    width: 650px;
+    height: auto;
+    border: 2px solid purple;
+}
+.large-container .smll-container2{
+    margin: 15px;
+    width: 650px;
+    height: 100%;
+}
+.large-container .smll-container2 .container2_5{
+    border: 2px solid green;
+    height: 300px;
+
+}
+.large-container .smll-container2 .container3_5{
+    margin-top: 15px;
+    border: 2px solid yellow;
+    height: 295px;
+
+}
+.small-container3{
+    margin: 25px;
+    border: 2px solid orange;
+    width: 300px;
+    height: 300px;
+} */
